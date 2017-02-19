@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Sansita');
+body {
+    background-color: green;
+    font-family: 'Sansita', sans-serif;
+}
+
+h1 {
+    background-color: yellow;
+    padding: 10px 15px;
+    border: 5px solid red;
+}
+
+h3 {
+    background-color: #EEEEEE;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-bottom: 0;
+    border-top-left-radius: 45px;
+    border-bottom: 3px solid #ccc;
+}
+
+h4 {
+    background-color: #ccc;
+    float: right;
+    margin-top: 0;
+    padding: 1em;
+    border-bottom-right-radius: 45px;
+}
