@@ -1,28 +1,40 @@
 @import url('https://fonts.googleapis.com/css?family=Sansita');
 body {
-    background-color: green;
+    background-color: orange;
     font-family: 'Sansita', sans-serif;
 }
 
-h1 {
-    background-color: yellow;
+.main-head {
+    background-color: white;
     padding: 10px 15px;
     border: 5px solid red;
 }
 
-h3 {
-    background-color: #EEEEEE;
+.Quote {
+    background-color: #08351F;
     padding-top: 1em;
     padding-bottom: 1em;
     margin-bottom: 0;
-    border-top-left-radius: 45px;
+    color:white;
     border-bottom: 3px solid #ccc;
 }
 
-h4 {
-    background-color: #ccc;
+.Quote-Author {
+    background-color: #2E7C16;
+    color : white;
+    text-decoration: bold;
+    font-size: 25px;
     float: right;
     margin-top: 0;
     padding: 1em;
-    border-bottom-right-radius: 45px;
+    
+}
+.btn-default {
+    font-family: 'Sansita';
+    padding: 10px;
+    margin:10px;
+    font-size: 30px;
+    font-weight: bold;
+    color:blue;
+    border: 3px solid red;
 }
